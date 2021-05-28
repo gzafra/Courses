@@ -1,0 +1,24 @@
+
+def main_pods
+  pod 'Alamofire', '~> 5.2'
+end
+
+def app_pods 
+  pod 'SnapKit', '~> 5.0.0'
+  pod 'Kingfisher', '5.14.1' 
+end
+
+def test_pods
+  pod 'Nimble', '7.3.4' 
+end
+
+target 'Courses' do
+  main_pods
+  app_pods
+end
+
+target 'CoursesTests' do
+  main_pods
+  app_pods
+  test_pods
+end

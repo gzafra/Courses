@@ -1,0 +1,277 @@
+[
+  {
+    "id": "387",
+    "thumbnailUrl": "http://testassets.com/387-original.jpg",
+    "title": "Introduction to Adobe Photoshop",
+    "trailerUrl": "https://player.vimeo.com/external/295400375.hd.mp4?s=feac97d87265e818dfca5387a9b18d3ad7fff989&profile_id=175&oauth2_token_id=1121588336",
+    "description": "Learn Adobe Photoshop from scratch and master the best software for treatment, retouching and creation of digital images on the market",
+    "location": "Barcelona, Spain",
+    "teacher": {
+      "name": "Carles Marsal",
+      "avatarUrl": "http://testassets.com/89569-original.jpg"
+    },
+    "reviews": {
+      "positive": 4008,
+      "total": 4100
+    },
+    "lessonsCount": 50,
+    "students": 161905,
+    "audio": "Spanish",
+    "subtitles": [
+      "English",
+      "Spanish",
+      "Portuguese"
+    ],
+    "level": "Beginner"
+  },
+  {
+    "id": "499",
+    "thumbnailUrl": "http://testassets.com/499-original.jpg",
+    "title": "Introduction to Adobe Illustrator",
+    "trailerUrl": "https://player.vimeo.com/external/327709635.hd.mp4?s=cc8e8681cea8297addc2bcc5f0ac215251c4db8c&profile_id=174&oauth2_token_id=1121588336",
+    "description": "Learn Adobe Illustrator without any prior knowledge to create optimum vectorial graphics",
+    "location": "Ciudad de México, Mexico",
+    "teacher": {
+      "name": "Aarón Martínez",
+      "avatarUrl": "http://testassets.com/243315-original.jpg"
+    },
+    "reviews": {
+      "positive": 1372,
+      "total": 1400
+    },
+    "lessonsCount": 77,
+    "students": 68859,
+    "audio": "Spanish",
+    "subtitles": [
+      "English",
+      "Portuguese",
+      "German"
+    ],
+    "level": "Intermediate"
+  },
+  {
+    "id": "304",
+    "thumbnailUrl": "http://testassets.com/304-original.jpg",
+    "title": "Introduction to After Effects",
+    "trailerUrl": "https://player.vimeo.com/external/248345167.hd.mp4?s=d5c7be434335781a1e9cadeb075855eb6e04091b&profile_id=174&oauth2_token_id=1121588336",
+    "description": "Learn After Effects without prior knowledge and master the best software for motion graphics and post-production on the market",
+    "location": "Madrid, Spain",
+    "teacher": {
+      "name": "Carlos Zenzuke Albarrán",
+      "avatarUrl": "http://testassets.com/19981-original.jpg"
+    },
+    "reviews": {
+      "positive": 2068,
+      "total": 2200
+    },
+    "lessonsCount": 58,
+    "students": 150691,
+    "audio": "Spanish",
+    "subtitles": [
+      "English",
+      "German"
+    ],
+    "level": "Advanced"
+  },
+  {
+    "id": "227",
+    "thumbnailUrl": "http://testassets.com/227-original.jpg",
+    "title": "Professional Photography for Instagram",
+    "trailerUrl": "https://player.vimeo.com/external/244329947.hd.mp4?s=529e123ef196f1e5f5e7ccaf88653f1b28f17f80&profile_id=174&oauth2_token_id=1121588336",
+    "description": "Learn tricks to take and edit photographs for social media on your phone",
+    "location": "Sevilla, Spain",
+    "teacher": {
+      "name": "Mina Barrio",
+      "avatarUrl": "http://testassets.com/499833-original.jpg"
+    },
+    "reviews": {
+      "positive": 4995,
+      "total": 5000
+    },
+    "lessonsCount": 16,
+    "students": 104031,
+    "audio": "Spanish",
+    "subtitles": [],
+    "level": "Beginner"
+  },
+  {
+    "id": "537",
+    "thumbnailUrl": "http://testassets.com/537-original.jpg",
+    "title": "Introducción a Adobe Premiere Pro",
+    "trailerUrl": "https://player.vimeo.com/external/329092542.hd.mp4?s=9066f4f7498cd72ad8f02443b96c72bc16a30116&profile_id=174&oauth2_token_id=1121588336",
+    "description": "Learn Adobe Premiere Pro without prior knowledge and master one of the best software of video editing for films, TV and the web",
+    "location": "Granada, Spain",
+    "teacher": {
+      "name": "Juanmi Cristóbal",
+      "avatarUrl": "http://testassets.com/990818-original.jpg"
+    },
+    "reviews": {
+      "positive": 617,
+      "total": 630
+    },
+    "lessonsCount": 36,
+    "students": 28357,
+    "audio": "Spanish",
+    "subtitles": [
+      "English",
+      "Spanish",
+      "Portuguese"
+    ],
+    "level": "Intermediate"
+  },
+  {
+    "id": "404",
+    "thumbnailUrl": "http://testassets.com/404-original.jpg",
+    "title": "Content Creation and Editing for Instagram Stories",
+    "trailerUrl": "https://player.vimeo.com/external/315212682.hd.mp4?s=24cbb08e30f0b63907cc6ff0d5cc0d0533135046&profile_id=175&oauth2_token_id=1121588336",
+    "description": "Discover the secrets of photography and video to find success on Instagram",
+    "location": "Sevilla, Spain",
+    "teacher": {
+      "name": "Mina Barrio",
+      "avatarUrl": "http://testassets.com/499833-original.jpg"
+    },
+    "reviews": {
+      "positive": 2156,
+      "total": 2200
+    },
+    "lessonsCount": 22,
+    "students": 74685,
+    "audio": "Spanish",
+    "subtitles": [
+      "English",
+      "Spanish",
+      "Portuguese"
+    ],
+    "level": "Advanced"
+  },
+  {
+    "id": "587",
+    "thumbnailUrl": "http://testsassets.com/587-original.jpg",
+    "title": "Introduction to Adobe InDesign",
+    "trailerUrl": "https://player.vimeo.com/external/335909854.hd.mp4?s=14e6d579bccd8862259fb8ec50139fa2f67e93ca&profile_id=175&oauth2_token_id=1121588336",
+    "description": "Learn Adobe InDesign without prior knowledge and master the top software for printed and digital editorial design",
+    "location": "Bloomfield Hills, United States",
+    "teacher": {
+      "name": "Javier Alcaraz",
+      "avatarUrl": "http://testassets.com/269308-original.jpg"
+    },
+    "reviews": {
+      "positive": 431,
+      "total": 431
+    },
+    "lessonsCount": 57,
+    "students": 17908,
+    "audio": "Spanish",
+    "subtitles": [
+      "English",
+      "Spanish",
+      "Portuguese",
+      "German"
+    ],
+    "level": "Intermediate"
+  },
+  {
+    "id": "138",
+    "thumbnailUrl": "http://testassets.com/138-original.jpg",
+    "title": "Drawing for Beginners Level -1",
+    "trailerUrl": "https://player.vimeo.com/external/182877632.hd.mp4?s=94c3be662849a804bdf0431baa2796a0e665fb24&profile_id=174&oauth2_token_id=1121588336",
+    "description": "Un curso espectacular sobre cómo dar tus primeros pasos con el dibujo.",
+    "location": "Medellín, Colombia",
+    "teacher": {
+      "name": "PuÃ±o",
+      "avatarUrl": "http://testassets.com/1909-original.jpeg"
+    },
+    "reviews": {
+      "positive": 3558,
+      "total": 3600
+    },
+    "lessonsCount": 18,
+    "students": 76463,
+    "audio": "Spanish",
+    "subtitles": [
+      "English",
+      "Spanish",
+      "Portuguese",
+      "German"
+    ],
+    "level": "Beginner"
+  },
+  {
+    "id": "381",
+    "thumbnailUrl": "http://testassets.com/381-original.jpg",
+    "title": "Illustration Techniques to Unlock your Creativity",
+    "trailerUrl": "https://player.vimeo.com/external/323398171.hd.mp4?s=d37b01820e9eabca28a46cd2ceac825936a68bbb&profile_id=175&oauth2_token_id=1121588336",
+    "description": "Create an artistâ€™s portfolio and develop your own universe of pictorial resources",
+    "location": "Ciudad de México",
+    "teacher": {
+      "name": "Adolfo Serra",
+      "avatarUrl": "http://testassets.com/527305-original.jpg"
+    },
+    "reviews": {
+      "positive": 2008,
+      "total": 2150
+    },
+    "lessonsCount": 16,
+    "students": 58750,
+    "audio": "Spanish",
+    "subtitles": [
+      "English",
+      "Spanish",
+      "Portuguese",
+      "German"
+    ],
+    "level": "Beginner"
+  },
+  {
+    "id": "208",
+    "thumbnailUrl": "http://testassets.com/208-original.jpg",
+    "title": "Introduction to Interior Design",
+    "trailerUrl": "https://player.vimeo.com/external/237071058.hd.mp4?s=0e0f05766ab578f286250d7aace24b207bbbbe88&profile_id=175&oauth2_token_id=1121588336",
+    "description": "Learn to bring spaces to life with simple DIY techniques",
+    "location": "Valencia, Spain",
+    "teacher": {
+      "name": "Masquespacio",
+      "avatarUrl": "http://testassets.com/376556-original.jpg"
+    },
+    "reviews": {
+      "positive": 1258,
+      "total": 1300
+    },
+    "lessonsCount": 12,
+    "students": 36866,
+    "audio": "Spanish",
+    "subtitles": [
+      "English",
+      "Spanish",
+      "Portuguese",
+      "German"
+    ],
+    "level": "Advanced"
+  },
+  {
+    "id": "264",
+    "thumbnailUrl": "http://testassets.com/264-original.jpg",
+    "title": "Realistic Portrait with Graphite Pencil",
+    "trailerUrl": "https://player.vimeo.com/external/276897552.hd.mp4?s=0d5ddca37ed2179e96873c1eb8faa7ab48e8e409&profile_id=174&oauth2_token_id=1121588336",
+    "description": "Learn the basics and technique to create realistic anatomical drawings",
+    "location": "Madrid, Spain",
+    "teacher": {
+      "name": "Diego Catalan Amilivia",
+      "avatarUrl": "http://testassets.com/623166-original.jpg"
+    },
+    "reviews": {
+      "positive": 1699,
+      "total": 1722
+    },
+    "lessonsCount": 35,
+    "students": 41301,
+    "audio": "Spanish",
+    "subtitles": [
+      "English",
+      "Spanish",
+      "Portuguese",
+      "German"
+    ],
+    "level": "Intermediate"
+  }
+]
